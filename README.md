@@ -141,6 +141,10 @@ Pull requests are welcome.
 - [ ] Model pretrained on MS-COCO
 - [ ] Unit test
 
+## My TODO
+- [ ] Add checkpoints that save the training process every hour
+- [ ] Test the model on different image catergories and visualize the performance
+
 ## Acknowledgment
 This repo borrows code heavily from 
 - [DrSleep's DeepLab-ResNet (DeepLabv2)](https://github.com/DrSleep/tensorflow-deeplab-resnet)
